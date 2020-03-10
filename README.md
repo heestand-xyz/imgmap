@@ -1,3 +1,3 @@
 # imgmap
 
-A description of this package.
+Batch Resize Images
